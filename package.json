@@ -1,0 +1,24 @@
+{
+  "name": "practice-20",
+  "version": "1.0.0",
+  "description": "Write a program that generates random data. Then:",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsjuneau/practice-20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsjuneau/practice-20/issues"
+  },
+  "homepage": "https://github.com/dsjuneau/practice-20#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "mongoose": "^5.10.9"
+  }
+}
